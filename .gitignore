@@ -11,6 +11,8 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# tools folder for CICD
+.tools
 
 # environment variables
 .env
